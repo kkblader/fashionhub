@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+.category-card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.product-card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+}
+
